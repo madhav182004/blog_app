@@ -68,22 +68,6 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** application that 
 
 ---
 
-## Scripts 🛠️
-
-### In the Root Directory:
-- **Run the backend server**:  
-  ```bash
-  npm run server
-  ```
-
-### In the Client Directory:
-- **Run the React app**:  
-  ```bash
-  npm start
-  ```
-
----
-
 ## Future Enhancements 🚀
 
 - Implement **rich text editor** for enhanced blog creation.  
